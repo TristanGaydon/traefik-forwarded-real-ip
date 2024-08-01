@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	xForwardedFor = "X-Forwarded-For"
+	xForwardedFor = "X-Iis-Forwarded-For"
 	xRealIP       = "X-Real-Ip"
 )
 

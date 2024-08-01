@@ -1,3 +1,3 @@
-module github.com/pvalletbo/traefik-forwarded-real-ip
+module github.com/tristangaydon/traefik-forwarded-real-ip
 
 go 1.15
